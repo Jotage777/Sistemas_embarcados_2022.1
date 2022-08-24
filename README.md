@@ -29,8 +29,6 @@ Nesse projeto foi desenvolvido um protótipo que foi planejado para automatizar 
 
 -   Criar um prototipo que seja capaz de automatizar as luzes de uma residencia, com uso de sensores de presença e luminosidade, e realizar comunicação com o utilizador por meio de mensagens via TELEGRAM.
 
-## 6. Diagramas
-
-## 7. Resumo dos Resultados
+## 6. Resumo dos Resultados
 
 -   Realizamos todas as funções apresentadas no projeto, como utilizar os sensores de luminosidade e de presença para avisar quando a luz estava apagada ou ligada, também ligar e desligar as luzes para uma casa automatizada. Também implementamos a ligação do ESP com o Telegram
