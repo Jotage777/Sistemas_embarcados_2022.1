@@ -10,9 +10,9 @@
 #define Light 32
 
 //token do bot do telegram
-#define BOT_TOKEN "5756020379:AAFavtnJHQSqtln3eVzol0l4IL0swHcnYzs"
-#define WIFI_SSID "brisa-2553990"
-#define PASSWORD "toucsi8d"
+#define BOT_TOKEN "**************************"
+#define WIFI_SSID "************************"
+#define PASSWORD "************************"
 
 
 //variaveis para comandos no telegram
