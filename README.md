@@ -5,7 +5,7 @@
 -   Instituto Federal da Paraíba - IFPB
 -   Campus Campina Grande
 
-## 2. Docente responsável
+## 2. Docente
 
 -   [Professor Dr. Alexandre Sales Vasconcelos](https://github.com/alexandresvifpb)
 
